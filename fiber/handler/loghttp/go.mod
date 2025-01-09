@@ -1,4 +1,4 @@
-module github.com/mike504110403/common-moduals/handler/loghttp
+module github.com/mike504110403/common-moduals/fiber/handler/loghttp
 
 go 1.22.3
 
