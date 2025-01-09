@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/mike504110403/common-moduals/auth/locals"
+	"ec2-15-168-3-237.ap-northeast-3.compute.amazonaws.com/gogogo/common-moduals/auth/locals"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt/v4"

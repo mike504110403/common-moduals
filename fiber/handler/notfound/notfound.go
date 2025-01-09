@@ -1,9 +1,9 @@
 package notfound
 
 import (
-	"github.com/mike504110403/common-moduals/fiber/handler/loghttp"
-	"github.com/mike504110403/common-moduals/fiber/handler/tracehandler"
-	"github.com/mike504110403/common-moduals/ilog/v2"
+	"ec2-15-168-3-237.ap-northeast-3.compute.amazonaws.com/gogogo/common-moduals/fiber/handler/loghttp"
+	"ec2-15-168-3-237.ap-northeast-3.compute.amazonaws.com/gogogo/common-moduals/fiber/handler/tracehandler"
+	"ec2-15-168-3-237.ap-northeast-3.compute.amazonaws.com/gogogo/common-moduals/ilog/v2"
 
 	"github.com/gofiber/fiber/v2"
 )
