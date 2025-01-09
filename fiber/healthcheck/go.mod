@@ -3,8 +3,12 @@ module github.com/mike504110403/common-moduals/fiber/healthcheck
 go 1.22.3
 
 require (
+	github.com/gofiber/fiber/v2 v2.52.6
+	github.com/mike504110403/common-moduals/fiber/handler/healthcheck v0.0.0-20250109154915-dc11afd8fca2
+)
+
+require (
 	github.com/andybalholm/brotli v1.1.0 // indirect
-	github.com/gofiber/fiber/v2 v2.52.6 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/klauspost/compress v1.17.9 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
