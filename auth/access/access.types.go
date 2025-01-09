@@ -1,7 +1,7 @@
 package access
 
 import (
-	"github.com/mike504110403/common-moduals/baseProtocol/auth/cookies"
+	"github.com/mike504110403/common-moduals/auth/cookies"
 
 	"github.com/golang-jwt/jwt/v4"
 )
