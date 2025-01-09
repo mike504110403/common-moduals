@@ -1,4 +1,4 @@
-module github.com/mike504110403/common-moduals/handler/healthcheck
+module github.com/mike504110403/common-moduals/fiber/handler/healthcheck
 
 go 1.22.3
 

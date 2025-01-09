@@ -1,4 +1,4 @@
-module github.com/mike504110403/common-moduals/handler/recoverhandler
+module github.com/mike504110403/common-moduals/fiber/handler/recoverhandler
 
 go 1.22.3
 

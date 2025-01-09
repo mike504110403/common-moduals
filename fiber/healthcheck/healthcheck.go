@@ -1,7 +1,7 @@
 package healthcheck
 
 import (
-	"ec2-15-168-3-237.ap-northeast-3.compute.amazonaws.com/gogogo/common-moduals/fiber/handler/healthcheck"
+	"github.com/mike504110403/common-moduals/fiber/handler/healthcheck"
 
 	"github.com/gofiber/fiber/v2"
 )

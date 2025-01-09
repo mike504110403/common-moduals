@@ -1,4 +1,4 @@
-module github.com/mike504110403/common-moduals/handler/tracehandler
+module github.com/mike504110403/common-moduals/fiber/handler/tracehandler
 
 go 1.22.3
 
